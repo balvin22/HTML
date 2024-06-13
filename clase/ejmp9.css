@@ -1,0 +1,7 @@
+.list li:first-child {
+    background-color: yellow;
+}
+
+.list li:last-child {
+    background-color: green;
+}
